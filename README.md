@@ -1,4 +1,5 @@
 # jupyterBook-demo
+
 Comment faire les premier pas avec un Jupyter book sur le cluster de l'IFB
 
 
@@ -15,27 +16,18 @@ Cette intro est réalisée sur le cluster de l'IFB pour vous éviter de devoir f
 
 Pour des questions de simplicité, je fais cette démo sur GitHub pour l'héberger sur une GitHub pages. C'est aussi possible sur GitLab (qui viendra après). 
 
-## Création d'un répo GitHub
+## Le cookbook 
 
-Pas d'explication ici. Il faut que votre répo soit public par contre pour pouvoir mettre votre livre en ligne. N'oubliez pas la licence et un read me  :wink:
-
-## Git clone sur le cluster
-
-Pas d'explication ici non plus, normalement vous savez faire sinon (attention moment promotion !) l'IFB propose une formation pour ça `FAIR bioinfo`. 
+Je vous propose un petit cookbook pour générer votre premier livre [ici](cookbook.ipynb)
 
 
+## Le livre en ligne 
 
-1. Chargement du module
+https://ifb-elixirfr.github.io/jupyterBook-demo/notebooks.html
 
-```bash
-module load jupyter-book
-```
+## Un exemple de livre plus complet 
 
-2. Création d'un book
-
-```bash
-jupyter-book create mynewbook/
-```
+https://ifb-elixirfr.github.io/LinuxEBAII/00_home.html
 
 
 ## Ressource
