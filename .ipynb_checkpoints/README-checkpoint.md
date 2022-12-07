@@ -1,15 +1,15 @@
 # jupyterBook-demo
 
-Comment faire les premier pas avec un Jupyter book sur le cluster de l'IFB
+Comment faire les premiers pas avec un Jupyter book sur le cluster de l'IFB
 
 
 ## Objectifs
 
-Lister les différentes commandes pour démarer un Jupyter book et comment le partager. 
+Lister les différentes commandes pour démarrer un Jupyter book et comment le partager. 
 
 **Note 1** 
 
-Cette intro est réalisée sur le cluster de l'IFB pour vous éviter de devoir faire des instalations particulières. Par contre si vous le souhaitez par la suite, je peux aussi le faire via des dockers.
+Cette intro est réalisée sur le cluster de l'IFB pour vous éviter de devoir faire des installations particulières. Par contre si vous le souhaitez par la suite, je peux aussi le faire via des dockers.
 
 
 **Note 2** 
