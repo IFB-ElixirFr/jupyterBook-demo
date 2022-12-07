@@ -33,3 +33,5 @@ https://ifb-elixirfr.github.io/LinuxEBAII/00_home.html
 ## Ressource
 
 - https://jupyterbook.org/en/stable/intro.html
+- https://github.com/jmshea/jupytercards
+- https://github.com/jmshea/jupyterquiz
