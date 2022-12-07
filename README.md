@@ -4,7 +4,7 @@
 
 Comment faire les premiers pas avec un Jupyter book sur le cluster de l'IFB
 
-## Objectifs
+## :dart: Objectifs
 
 Lister les différentes commandes pour démarrer un Jupyter book et comment le partager. 
 
@@ -17,21 +17,21 @@ Cette intro est réalisée sur le cluster de l'IFB pour vous éviter de devoir f
 
 Pour des questions de simplicité, je fais cette démo sur GitHub pour l'héberger sur une GitHub pages. C'est aussi possible sur GitLab (qui viendra après). 
 
-## Le cookbook 
+## :notebook: Le cookbook 
 
 Je vous propose un petit cookbook pour générer votre premier livre [ici](cookbook.ipynb)
 
+## :book: Les livres en ligne 
 
-## Le livre en ligne 
+### Le livre de cet démo 
 
 https://ifb-elixirfr.github.io/jupyterBook-demo/intro.html
 
-## Un exemple de livre plus complet 
+### Un exemple de livre plus complet 
 
 https://ifb-elixirfr.github.io/LinuxEBAII/00_home.html
 
-
-## Ressource
+## :link: Ressources
 
 - https://jupyterbook.org/en/stable/intro.html
 - https://github.com/jmshea/jupytercards
