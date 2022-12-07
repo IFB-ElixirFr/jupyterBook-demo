@@ -23,7 +23,7 @@ Je vous propose un petit cookbook pour générer votre premier livre [ici](cookb
 
 ## :book: Les livres en ligne 
 
-### Le livre de cet démo 
+### Le livre de cette démo 
 
 https://ifb-elixirfr.github.io/jupyterBook-demo/intro.html
 
