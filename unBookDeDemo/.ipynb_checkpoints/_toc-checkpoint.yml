@@ -1,0 +1,16 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: markdown
+    chapters:
+        - file: markdown
+        - file: markdown-notebooks
+  - caption: Python
+    chapters:
+        - file: notebooks
+  - caption: Bash
+    chapters:
+        - file: notebook_bash

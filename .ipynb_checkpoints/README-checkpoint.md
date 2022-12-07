@@ -24,6 +24,7 @@ Pas d'explication ici. Il faut que votre répo soit public par contre pour pouvo
 Pas d'explication ici non plus, normalement vous savez faire sinon (attention moment promotion !) l'IFB propose une formation pour ça `FAIR bioinfo`. 
 
 
+## Création d'un book 
 
 1. Chargement du module
 
@@ -36,6 +37,7 @@ module load jupyter-book
 ```bash
 jupyter-book create mynewbook/
 ```
+
 
 
 ## Ressource
