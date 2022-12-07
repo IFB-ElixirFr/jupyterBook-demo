@@ -1,7 +1,8 @@
-# jupyterBook-demo
+# Premier pas avec un Jupyter book
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7410621.svg)](https://doi.org/10.5281/zenodo.7410621)
 
 Comment faire les premiers pas avec un Jupyter book sur le cluster de l'IFB
-
 
 ## Objectifs
 
