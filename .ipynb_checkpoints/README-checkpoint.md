@@ -24,7 +24,7 @@ Je vous propose un petit cookbook pour générer votre premier livre [ici](cookb
 
 ## Le livre en ligne 
 
-https://ifb-elixirfr.github.io/jupyterBook-demo/notebooks.html
+https://ifb-elixirfr.github.io/jupyterBook-demo/intro.html
 
 ## Un exemple de livre plus complet 
 
